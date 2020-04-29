@@ -1,9 +1,9 @@
 # Problem Statement
 Notebook Streamlined (noteline) seeks to solve the following problem:
 
-    On average, it takes weeks for a fully functional notebook to reach production. Such long time delays by itself, causing many consequences. 
+    On average, it takes weeks for a fully functional notebook to reach production.
 
-Such consequences are:
+Such long time delays by itself, causing many consequences. Such consequences are:
     
 * Many Notebooks that are providing value never attaining to the production state
 * Logic from the Notebooks that do reach the production end up been re-written from the ground up to fit into the pre-existing production infrastructure
