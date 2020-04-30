@@ -1,3 +1,5 @@
+![](logo.png)
+
 # Problem Statement
 Notebook Streamlined (noteline) seeks to solve the following problem:
 
