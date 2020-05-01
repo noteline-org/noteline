@@ -17,8 +17,8 @@ Such long time delays by itself, causing many consequences. Such consequences ar
 
 * [noteline-schema](https://github.com/noteline-org/noteline-schema) - a project that defines how all the metadata stored in Notebooks
 * [noteline-sdk-core](https://github.com/noteline-org/noteline-sdk-core) - core noteline SDK for manipulating the Notebooks metadata
-* noteline-gcp-sdk - SDK for doing different operations with the fully reproducible Notebooks on GCP
-* noteline-gcp-cli - CLI for executing different actions with Notebooks on GCP
+* noteline-sdk-gcp - SDK for doing different operations with the fully reproducible Notebooks on GCP
+* noteline-cli-gcp - CLI for executing different actions with Notebooks on GCP
 * noteline-kf - Notebook as a step in Kubeflow Pipeline
 * noteline-showcases - collections of different reference architectures of building different pipelines
 
