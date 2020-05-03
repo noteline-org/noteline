@@ -20,7 +20,7 @@ Such long time delays by itself, causing many consequences. Such consequences ar
 * noteline-sdk-gcp - SDK for doing different operations with the fully reproducible Notebooks on GCP
 * noteline-cli-gcp - CLI for executing different actions with Notebooks on GCP
 * noteline-kf - Notebook as a step in Kubeflow Pipeline
-* noteline-showcases - collections of different reference architectures of building different pipelines
+* noteline-examples - collections of different reference architectures of building different pipelines
 
 # Key Principles
 
