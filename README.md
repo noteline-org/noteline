@@ -1,15 +1,15 @@
 ![](logo.png)
 
 # Problem Statement
-Notebook Streamlined (noteline) seeks to solve the following problem:
+Notebook Streamlined (noteline) attempts to solve the following problem:
 
-    On average, it takes weeks for a fully functional notebook to reach production.
+    It takes far too long for a fully functional notebook to reach production.
 
-Such long time delays by itself, causing many consequences. Such consequences are:
-    
-* Many Notebooks that are providing value never attaining to the production state
-* Logic from the Notebooks that do reach the production end up been re-written from the ground up to fit into the pre-existing production infrastructure
-* It is almost impossible to execute Notebooks as a pipeline step
+These time delays have many consequences, including:
+
+* Many notebooks that provide value never reach production
+* When notebooks do reach production, their logic needs to be rewritten from the ground up to fit into the pre-existing production infrastructure
+* It is almost impossible to execute a notebook as part of a pipeline
 
 # noteline as the Solution
 
